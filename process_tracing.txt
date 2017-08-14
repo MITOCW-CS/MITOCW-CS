@@ -1,0 +1,15 @@
+I. MIT CS Courses
+	1. MIT 6.0006 
+	2. MIT 6_042J
+	3. MIT 6.006
+
+II. Udacity
+	1. Software Engineering
+		+ Software Development Process
+		+ Software Debugging
+	2. Android
+		+ Developing Android Apps
+		+ Advanced Android App Development
+	3. iOS
+		+ Intro to iOS App Development with Swift
+		+ How to Make an iOS App
